@@ -7,6 +7,8 @@ Control your cursor using eyetracking.
 - left click by closing left eye (keep eye closed to drag)
 - right click by closing right eye
 - middle click by closing both eyes
+- esc to close the program
+- ctrl+space to recalibrate the starting position of the tracker
 
 ## Requirements
 
