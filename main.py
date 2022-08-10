@@ -13,10 +13,7 @@ except:
     os.system("cls")
 
     self = os.path.basename(sys.argv[0])
-    if self.endswith(".py") or self.endswith(".pyw"): #If script
-        os.system("python " + self)
-    else: #If compiled
-        os.system(self)
+    os.system("python " + self)
 
 
 
